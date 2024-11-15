@@ -5,7 +5,9 @@ const path = require('path');
 const fs = require('fs');
 const PORT = 3001;
 
+
 app.use(cors());
+
 app.use(express.json());
 
 const listingsData = require('./Data_Listings');
@@ -36,8 +38,10 @@ app.get('/api/search', (req, res) => {
     );
   });
 
+
   res.json(filteredListings);
 });
+
 
 
 app.post('/api/bookings', (req, res) => {
@@ -54,9 +58,9 @@ app.post('/api/bookings', (req, res) => {
 
     fs.writeFile(filePath, JSON.stringify(bookings, null, 2), (err) => {
       if (err) {
-        return res.status(500).json({ message: 'Error saving booking data' });
+        return res.status(500).json({ message: 'Error on that booking' });
       }
-      res.status(201).json({ message: 'Booking saved successfully' });
+      res.status(201).json({ message: 'Your Booking saved successfully' });
     });
   });
 });
