@@ -1,8 +1,14 @@
 [
-    {
-      "name": "Arshad",
-      "phoneNumber": "03204662505",
-      "title": "Family-Friendly Cabin in the Woods",
-      "category": "Family-Friendly"
-    }
-  ]
+  {
+    "name": "Arshad",
+    "phoneNumber": "03204662505",
+    "title": "Family-Friendly Cabin in the Woods",
+    "category": "Family-Friendly"
+  },
+  {
+    "name": "Amjad Ijaz",
+    "phoneNumber": "03096705836",
+    "title": "Family-Friendly Beach House",
+    "category": "Family-Friendly"
+  }
+]
