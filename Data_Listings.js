@@ -6,7 +6,7 @@ const listingData = [
         guests: 4,
         price: 120,
         rating: 4.8,
-        image: 'https://images.pexels.com/photos/1704120/pexels-photo-1704120.jpeg',
+        image: 'https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/bltbd2ce226f907da2a/618b5d8affff3679072235b3/US_Oceanside_US_Header.jpg',
         category: 'Beachfront',
     },
     {
@@ -16,7 +16,7 @@ const listingData = [
         guests: 2,
         price: 90,
         rating: 2.7,
-        image: 'https://images.pexels.com/photos/3408740/pexels-photo-3408740.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-894042565423879342/original/611fa67d-bf2d-4f1f-9ca7-2eb24e58629a.jpeg?im_w=720',
         category: 'Cabins',
     },
     {
@@ -26,7 +26,8 @@ const listingData = [
         guests: 5,
         price: 250,
         rating: 5.0,
-        image: 'https://images.pexels.com/photos/3705868/pexels-photo-3705868.jpeg',
+        // image: 'https://images.pexels.com/photos/3705868/pexels-photo-3705868.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1MDEwMzgzNzEwNTcyNTExOQ%3D%3D/original/41823601-e1c8-4e8b-86ba-a909db5d498a.jpeg?im_w=720',
         category: 'Luxury',
     },
     {
@@ -36,7 +37,8 @@ const listingData = [
         guests: 6,
         price: 150,
         rating: 4.6,
-        image: 'https://images.pexels.com/photos/2828964/pexels-photo-2828964.jpeg',
+        // image: 'https://images.pexels.com/photos/2828964/pexels-photo-2828964.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/0f2c9d28-3fb7-4b5a-91b0-11a6ddec23b1.jpg',
         category: 'Unique Stays',
     },
     {
@@ -46,7 +48,8 @@ const listingData = [
         guests: 3,
         price: 75,
         rating: 4.2,
-        image: 'https://images.pexels.com/photos/4573184/pexels-photo-4573184.jpeg',
+        // image: 'https://images.pexels.com/photos/4573184/pexels-photo-4573184.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-50674541/original/423a7069-3604-4242-bbad-d631ab833920.jpeg',
         category: 'Budget',
     },
     {
@@ -56,7 +59,8 @@ const listingData = [
         guests: 8,
         price: 180,
         rating: 4.9,
-        image: 'https://images.pexels.com/photos/3202633/pexels-photo-3202633.jpeg',
+        // image: 'https://images.pexels.com/photos/3202633/pexels-photo-3202633.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/a17609e2-d762-4365-a313-62e619e59872.jpg',
         category: 'Family-Friendly',
     },
     {
@@ -66,7 +70,8 @@ const listingData = [
         guests: 4,
         price: 110,
         rating: 4.5,
-        image: 'https://images.pexels.com/photos/3830971/pexels-photo-3830971.jpeg',
+        // image: 'https://images.pexels.com/photos/3830971/pexels-photo-3830971.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/1ff6d909-5ba6-42f3-9d2c-fa2327780936.jpg',
         category: 'Pet-Friendly',
     },
     {
@@ -76,7 +81,7 @@ const listingData = [
         guests: 10,
         price: 500,
         rating: 5.0,
-        image: 'https://images.pexels.com/photos/3027015/pexels-photo-3027015.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/prohost-api/Hosting-649894021581923278/original/90c90ff5-707a-41cf-891f-3522dc8e6223.jpeg',
         category: 'Luxury',
     },
     {
@@ -86,7 +91,7 @@ const listingData = [
         guests: 2,
         price: 70,
         rating: 4.4,
-        image: 'https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/01c6b3ef-7505-42c5-8ca0-b5a11bcb4da0.jpg',
         category: 'Unique Stays',
     },
     {
@@ -96,7 +101,7 @@ const listingData = [
         guests: 2,
         price: 95,
         rating: 4.6,
-        image: 'https://images.pexels.com/photos/2924726/pexels-photo-2924726.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-1019381140590932199/original/896211d8-63a3-43c0-ab98-26bc6b711a7b.jpeg',
         category: 'Beachfront',
     },
     {
@@ -106,7 +111,7 @@ const listingData = [
         guests: 5,
         price: 160,
         rating: 4.7,
-        image: 'https://images.pexels.com/photos/2076906/pexels-photo-2076906.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/hosting/Hosting-1067907422612960545/original/e5411542-fc94-4315-a70e-8e1c5b4aba7d.jpeg?im_w=1200',
         category: 'Family-Friendly',
     },
     {
@@ -116,7 +121,7 @@ const listingData = [
         guests: 4,
         price: 120,
         rating: 4.8,
-        image: 'https://images.pexels.com/photos/1863735/pexels-photo-1863735.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/b49bcc29-9ff5-4af3-b28f-8a9d93f132d5.jpg',
         category: 'Cabins',
     },
     {
@@ -126,7 +131,7 @@ const listingData = [
         guests: 3,
         price: 400,
         rating: 4.9,
-        image: 'https://images.pexels.com/photos/1675590/pexels-photo-1675590.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-4…9f0351c-81f2-4ca7-b38a-2aea9cc6e6e7.jpeg',
         category: 'Luxury',
     },
     {
@@ -136,7 +141,7 @@ const listingData = [
         guests: 4,
         price: 130,
         rating: 4.6,
-        image: 'https://images.pexels.com/photos/1662562/pexels-photo-1662562.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/894481b0-a8bb-4add-b186-e94f0a19ca40.jpg',
         category: 'Unique Stays',
     },
     {
@@ -146,7 +151,7 @@ const listingData = [
         guests: 6,
         price: 250,
         rating: 4.8,
-        image: 'https://images.pexels.com/photos/2384691/pexels-photo-2384691.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/f4eb2be4-e756-4e6f-b087-7c86f9428254.jpg',
         category: 'Beachfront',
     },
     {
@@ -156,7 +161,7 @@ const listingData = [
         guests: 5,
         price: 140,
         rating: 4.7,
-        image: 'https://images.pexels.com/photos/2899906/pexels-photo-2899906.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/hosting/Hosting-594888448523325825/original/fcb65cd0-4e46-48be-bcff-ba9295960578.jpeg',
         category: 'Cabins',
     },
     {
@@ -166,7 +171,7 @@ const listingData = [
         guests: 12,
         price: 300,
         rating: 4.5,
-        image: 'https://images.pexels.com/photos/1593631/pexels-photo-1593631.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-625415237109039403/original/fa551079-a659-4b8d-b7fa-ae04cf19f975.jpeg?im_w=720',
         category: 'Family-Friendly',
     },
     {
@@ -176,7 +181,7 @@ const listingData = [
         guests: 2,
         price: 110,
         rating: 4.9,
-        image: 'https://images.pexels.com/photos/2889660/pexels-photo-2889660.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-50683253/original/f006a188-3992-42af-89a5-1114eabf6143.jpeg',
         category: 'Unique Stays',
     },
     {
@@ -186,7 +191,7 @@ const listingData = [
         guests: 4,
         price: 85,
         rating: 4.3,
-        image: 'https://images.pexels.com/photos/2566852/pexels-photo-2566852.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/d6ce61b5-87e5-4f45-b54d-42f2f7ef9a55.jpg',
         category: 'Budget',
     },
     {
@@ -196,7 +201,7 @@ const listingData = [
         guests: 8,
         price: 450,
         rating: 5.0,
-        image: 'https://images.pexels.com/photos/3027040/pexels-photo-3027040.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEwNzg2NjE5ODM1Njc3MjAyMw%3D%3D/original/ac676467-09b6-48fe-bf71-f9f5a5061301.jpeg',
         category: 'Luxury',
     },
     {
@@ -206,7 +211,7 @@ const listingData = [
         guests: 6,
         price: 170,
         rating: 4.6,
-        image: 'https://images.pexels.com/photos/1455771/pexels-photo-1455771.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/279cb42d-f7d0-4803-9539-c8cd39e5fd82.jpg',
         category: 'Pet-Friendly',
     },
     {
@@ -216,7 +221,7 @@ const listingData = [
         guests: 3,
         price: 150,
         rating: 4.5,
-        image: 'https://images.pexels.com/photos/2767402/pexels-photo-2767402.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/prohost-api/Hosting-17267404/original/74ed25f2-b372-42c1-ac9e-3520e38f668f.jpeg',
         category: 'Unique Stays',
     },
     {
@@ -226,7 +231,7 @@ const listingData = [
         guests: 2,
         price: 95,
         rating: 4.4,
-        image: 'https://images.pexels.com/photos/1166482/pexels-photo-1166482.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/hosting/Hosting-1240571099563908831/original/ceac019c-5d93-4830-aaee-ebb803a453a7.jpeg',
         category: 'Beachfront',
     },
     {
@@ -236,7 +241,7 @@ const listingData = [
         guests: 4,
         price: 210,
         rating: 4.8,
-        image: 'https://images.pexels.com/photos/3882152/pexels-photo-3882152.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-48846714/original/2f184c1c-8023-4e41-8977-371219a1d7e0.jpeg',
         category: 'Cabins',
     },
     {
@@ -246,7 +251,7 @@ const listingData = [
         guests: 10,
         price: 350,
         rating: 4.7,
-        image: 'https://images.pexels.com/photos/3141372/pexels-photo-3141372.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/35c224d2-9ad1-470f-874f-da0ab814d249.jpg',
         category: 'Family-Friendly',
     },
     {
@@ -256,7 +261,7 @@ const listingData = [
         guests: 3,
         price: 120,
         rating: 4.6,
-        image: 'https://images.pexels.com/photos/1761469/pexels-photo-1761469.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/miso/Hosting-813693347087311588/original/9b888d9d-e015-478b-9da3-79a70caddc56.jpeg',
         category: 'Unique Stays',
     },
     {
@@ -266,7 +271,7 @@ const listingData = [
         guests: 4,
         price: 110,
         rating: 4.5,
-        image: 'https://images.pexels.com/photos/2213224/pexels-photo-2213224.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/beb42d62-a7c1-4f07-b537-4969f80a5eab.jpg',
         category: 'Unique Stays',
     },
     {
@@ -276,7 +281,7 @@ const listingData = [
         guests: 5,
         price: 320,
         rating: 4.9,
-        image: 'https://images.pexels.com/photos/2080894/pexels-photo-2080894.jpeg',
+        image: 'https://a0.muscache.com/im/pictures/0e80acd8-01f4-4b84-8c56-2171f5bfe81a.jpg',
         category: 'Luxury',
     },
     {
